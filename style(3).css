@@ -1,18 +1,18 @@
 body {
 	font: 'Raleway', sans-serif;
-    color: rgba(0,0,0,.5);
+    color: rgba(0,0,0,.7);
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-	background: linear-gradient(to right, white, red); /* Standard syntax */
+	background: linear-gradient(to right, #ffffff, rgb(142, 161, 119)); /* Standard syntax */
     /*background-image: url("dennis-schrader-1313090-unsplash.jpg");*/
     /*background-size: 1200px 1200px;*/
 }
 
 h1 {
     font: 600 3.5em 'Raleway', sans-serif;
-    color: rgba(0,0,0,.5);
+    color: rgba(0,0,0,.7);
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
